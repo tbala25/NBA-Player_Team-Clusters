@@ -1,7 +1,7 @@
 #Environment Config
 
 FROM ubuntu:17.04
-#FROM python:3
+FROM python:3.4
 
 RUN pip install pandas
 RUN pip install selenium
@@ -10,8 +10,8 @@ RUN pip install selenium
 
 #FROM standalone-chrome
 
-ADD selenium_test.py /
+ADD selenium_test.py /Data-Scraping
 
-COPY selenium_test.py ./
+COPY selenium_test.py ./Data-Scraping
 
-CMD [ "python", "./selenium_test.py" ]
+CMD [ "python", "./Data-Scraping/selenium_test.py" ]

@@ -11,21 +11,16 @@ These instructions will get you a copy of the project up and running on your loc
 Need to install Docker on your local machine. More info at: https://runnable.com/docker/install-docker-on-macos
 
 
-### Installing
+### Building Docker Image
 
-A step by step series of examples that tell you how to get a development env running
+Once Docker is installed, via command line navigate to your local clone of this repo
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+To build an Image for Dockerfile, Run:
 
 ```
-until finished
+docker build -t [Name] .
 ```
+
 
 End with an example of getting some data out of the system or using it for a little demo
 
