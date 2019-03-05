@@ -22,7 +22,15 @@ docker build -t [Name] .
 ```
 
 
-End with an example of getting some data out of the system or using it for a little demo
+### Running Docker Image
+
+Once Docker image is built, to run the image via command line:
+
+```
+docker run [Name]
+```
+
+
 
 ## Running the tests
 
