@@ -4,33 +4,33 @@ This project intends to provide recommendations for NBA teams on Free Agents to 
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine .
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Need to install Docker on your local machine. More info at: https://runnable.com/docker/install-docker-on-macos
+
+
+### Building Docker Image
+
+Once Docker is installed, via command line navigate to your local clone of this repo
+
+To build an Image for Dockerfile, Run:
 
 ```
-Give examples
+docker build -t [Name] .
 ```
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running
+### Running Docker Image
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Once Docker image is built, to run the image via command line:
 
 ```
-until finished
+docker run [Name]
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+
 
 ## Running the tests
 
