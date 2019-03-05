@@ -11,7 +11,7 @@ RUN pip install selenium
 ##Data-Scraping
 
 ##Install Chrome for selenium
-#RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+RUN wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 RUN dpkg -i google-chrome-stable_current_amd64.deb; apt-get -fy install
 
 ##Install chromedriver for Selenium
@@ -26,4 +26,4 @@ RUN chmod +x chromedriver
 
 ##THIS WORKS
 ADD /Data-Scraping/selenium_test.py /Data-Scraping/selenium_test.py
-RUN [ "python", "/Data-Scraping/selenium_test.py" ]
+CMD [ "python", "/Data-Scraping/selenium_test.py" ]
