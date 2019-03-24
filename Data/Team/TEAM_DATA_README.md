@@ -2,14 +2,14 @@
 
 ## TABLES
 
-###Source: Basketball Reference
+#### Source: Basketball Reference
 
-Team Per 100 Poss
+### Team Per 100 Poss
 
-Opponent Per 100 Poss
+### Opponent Per 100 Poss
 
-Misc. Stats
+### Misc. Stats
 
-Team Shooting
+### Team Shooting
 
-Opponent Shooting
+#### Opponent Shooting
