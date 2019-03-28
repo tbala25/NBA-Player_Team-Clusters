@@ -6,6 +6,22 @@ This project intends to provide recommendations for NBA teams on Free Agents to 
 
 These instructions will get you a copy of the project up and running on your local machine .
 
+## Authors
+
+* **Tejas Bala** - *Initial work* -
+
+
+## Acknowledgments
+
+* Jan Vitek, Prof. DS 6050 @ Northeastern University
+* Eric Sidewater, Sports Analytics Expert / Consultant
+* README template from: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+
+
+================================================================================
+
+
+
 ### Prerequisites
 
 Need to install Docker on your local machine. More info at: https://runnable.com/docker/install-docker-on-macos
@@ -70,11 +86,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
