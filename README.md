@@ -4,8 +4,14 @@ This project intends to provide recommendations for NBA teams on Free Agents to 
 
 ## Authors
 
-* **Tejas Bala** - *Initial work* -
+* **Tejas Bala** 
 
+## Output
+
+See my output here:
+
+Player Clusters: https://public.tableau.com/profile/tejas.b1603#!/vizhome/NBAPlayerClassification/Dashboard1
+Team Clusters: https://public.tableau.com/profile/tejas.b1603#!/vizhome/NBA_Team_Clusters/Dashboard1?publish=yes
 
 ## Acknowledgments
 
@@ -14,12 +20,4 @@ This project intends to provide recommendations for NBA teams on Free Agents to 
 * Alex Cheng, Sports Analytics Enthusiast
 * README template from: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 
-================================================================================
 
-
-## Output
-
-See my output here:
-
-Player Clusters: https://public.tableau.com/profile/tejas.b1603#!/vizhome/NBAPlayerClassification/Dashboard1
-Team Clusters: https://public.tableau.com/profile/tejas.b1603#!/vizhome/NBA_Team_Clusters/Dashboard1?publish=yes
