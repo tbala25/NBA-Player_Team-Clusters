@@ -1,4 +1,4 @@
-# NBA Player_Team Clusters
+# NBA Player + Team Clusters
 
 This project intends to provide player and team archetypes to inform downstream recommendations for NBA teams on Free Agents to target. Project is being completed as my Senior Project in the Spring of 2019. *This README is a work in progress*
 
